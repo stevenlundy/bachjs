@@ -1,2 +1,2 @@
-# bachjs
-A javascript music application
+# bach.js
+A JavaScript music application.
